@@ -1,0 +1,28 @@
+.home-container {
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: justify;
+}
+
+.welcome-heading {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.welcome-text {
+    font-size: 1.2rem;
+    color: #000000;
+    text-align: justify;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.img-park {
+    width: 50%; 
+    height: auto;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
